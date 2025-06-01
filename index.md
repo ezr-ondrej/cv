@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ondrej Ezr's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ondrej Ezr
+Passionate about building open, transparent engineering cultures that empower teams and create sustainable, open solutions.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
+| [LinkedIn](https://www.linkedin.com/in/ondrej-ezr/)
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
+## Red Hat | Engineering Manager & Software Engineer
+*Since 2019*
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Leadership**: Lead a team of 5 engineers delivering part of SaaS product
+- **Technical Delivery**: Community-aligned projects for leaner product and simplified delivery
+- **Organizational Impact**: Guided reorganization of Developer and Quality team into autonomous, end-to-end delivery unit
+- **Collaboration**: Advocated for merging frontend/backend teams to reduce dependencies and improve delivery speed
+- **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership
+- **Culture**: Champion open decision-making and transparency across organizational levels
 
 
-### Research interests
+### Key Projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**OS Image Deployment Tool** *(console.redhat.com)*
+Lead team of five to built and delivere an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/).
 
+**Code to module extraction** *(Foreman)*  
+[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple.
+
+## Ministry of Justice | Software Engineer
+**2016 – 2019**
+
+- **Open Source Advocacy**: Led adoption of open source technologies within government infrastructure
+- **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices
+- **Modernization**: Transformed software delivery in traditionally rigid government environment
+- **Process Innovation**: Established foundation for developer autonomy and infrastructure transparency
+
+
+### Key Project
+
+**DevOps Transformation**
+[Established CI/CD pipelines](https://archiv.isss.cz/archiv/2020/do/watch?id=52) and quality assurance frameworks, modernizing government software delivery practices while pushing for [Open Sourcing some projects](https://github.com/ministryofjusticecz).
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Czech Technical University in Prague**  
+Bachelor of Computer Science | 2017
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Bussiness writing**
+The Economist course | 2025
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2025 -->
 
 
