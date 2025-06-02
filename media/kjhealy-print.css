@@ -64,6 +64,10 @@ body {
   	color: #11008a;
 }
 
+#content {
+	padding-right: 1em;
+}
+
 p {
 	position: relative;
 	left: 28%;
