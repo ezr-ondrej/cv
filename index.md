@@ -5,8 +5,8 @@ title: Ondřej Ezr's CV
 # Ondřej Ezr
 
 <div id="webaddress">
-<a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
-| <a href="https://github.com/ezr-ondrej">github.com/ezr-ondrej</a>
+📧 <a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
+| 💻 <a href="https://github.com/ezr-ondrej">github.com/ezr-ondrej</a>
 </div>
 
 ![Photo of me](/assets/images/ondrej-photo.jpg)
@@ -22,9 +22,9 @@ Technical contributor and team enabler who helps build high-performing engineeri
 
 ### Focused on
 
-- **Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs.
+- **Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs. Later guided the decision to take the service down again, when it didn't prove successful.
 - **Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
-- **Organizational Impact**: Guided team through reorganizations to merge backend, frontend and QE to single team. Stream-line decision making and simplify delivery process.
+- **Organizational Impact**: Guided team through reorganizations to put backend, frontend and quality engineering to single team. Stream-line decision making and simplify delivery process.
 - **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
 - **Culture**: Champion open decision-making and transparency across organizational levels. Bridged many teams to talk together more and collaborate more closely.
 
@@ -32,10 +32,10 @@ Technical contributor and team enabler who helps build high-performing engineeri
 ### Key Projects
 
 **OS Deployment Tool** *(console.redhat.com)*
-Lead team of five to built and delivere an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). Delivered under a year in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695).
+I've led team of five to built and deliver an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). We've delivered it under a year, in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695). We've maitained it for a year and subsequentely decided to deprecate and remove when it didn't prove successful.
 
 **Code to module extraction** *(Foreman)*  
-[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple.
+[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple. This allowed to remove dependency for customers to simplify the deployment process while allowing community the choice of continue using it.
 
 ## Previously
 `2016-2019`
@@ -59,6 +59,9 @@ Lead team of five to built and delivere an [Open Source service](https://github.
 `2012-2015`
 **Czech Technical University in Prague**  
 Bachelor of Computer Science
+
+`2015-now`
+**Courses and learning on the job**
 
 <!-- ### Footer
 
