@@ -22,11 +22,17 @@ Technical leader who helps build high-performing engineering teams through clear
 
 ### Focused on
 
-- **Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs. Later guided the decision to take the service down again, when it didn't prove successful.
-- **Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
-- **Organizational Impact**: Guided team through reorganizations to put backend, frontend and quality engineering to single team. Stream-line decision making and simplify delivery process.
-- **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
-- **Culture**: Champion open decision-making and transparency across organizational levels. Bridged many teams to talk together more and collaborate more closely.
+**Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs.
+Later guided the decision to take the service down again, when it didn't prove successful.
+
+**Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
+
+**Organizational Impact**: Guided team through reorganizations to put backend, frontend and quality engineering to single team.
+Stream-line decision making and simplify delivery process.
+
+**Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
+
+**Culture**: Champion open decision-making and transparency across organizational levels. Bridged many teams to talk together more and collaborate more closely.
 
 
 ### Key Projects
@@ -43,10 +49,13 @@ I've led team of five to built and deliver an [Open Source service](https://gith
 
 ### Focused on
 
-- **Open Source Advocacy**: Led adoption of open source licenses within government software to improve collaboration between deparments and reduce vendor dependency.
-- **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
-- **Modernization**: Transformed software delivery in traditionally rigid government environment
-- **Process Innovation**: Started an in-house development department. Established foundation for developer autonomy and infrastructure transparency.
+**Open Source Advocacy**: Led adoption of open source licenses within government software to improve collaboration between deparments and reduce vendor dependency.
+
+**DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
+
+**Modernization**: Transformed software delivery in traditionally rigid government environment
+
+**Process Innovation**: Started an in-house development department. Established foundation for developer autonomy and infrastructure transparency.
 
 
 ### Key Project
