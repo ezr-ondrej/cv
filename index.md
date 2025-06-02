@@ -5,7 +5,8 @@ title: Ondřej Ezr's CV
 # Ondřej Ezr
 
 <div id="webaddress">
-📧 <a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
++420 604 765 354
+| 📧 <a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
 | 💻 <a href="https://github.com/ezr-ondrej">github.com/ezr-ondrej</a>
 </div>
 
