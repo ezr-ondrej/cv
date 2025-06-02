@@ -59,6 +59,8 @@ body {
 	font-family: Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
+	background-color: #ffe765;
+  	color: #11008a;
 }
 
 p {
@@ -74,7 +76,7 @@ code {
 	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #11008a;
 }
 
 p code {
@@ -134,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #11008a;;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -146,7 +148,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
-	color: #ccc;
+	color: #11008a;;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -166,13 +168,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	color: #11008a;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
-}
-
-#webaddress a {
-	text-decoration: none;
 }
 
 em {

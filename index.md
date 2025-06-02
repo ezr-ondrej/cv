@@ -1,20 +1,26 @@
 ---
 layout: cv
-title: Ondrej Ezr's CV
+title: Ondřej Ezr's CV
 ---
-# Ondrej Ezr
-Passionate about building open, transparent engineering cultures that empower teams and create sustainable, open solutions.
+# Ondřej Ezr
 
 <div id="webaddress">
 <a href="mailto:ezrik12@gmail.com">ezrik12@gmail.com</a>
 | <a href="https://github.com/ezr-ondrej">github.com/ezr-ondrej</a>
 </div>
 
+![Photo of me](/assets/images/ondrej-photo.jpg)
+
+<p id="summary">
+Passionate about building accessible solutions in open cultures based on transparency that empower teams and create sustainable growth.
+</p>
 
 ## Currently
-**Engineering Manager & Software Engineer** *Since 2019*
 
-### Specialized in
+`Since 2019`
+**Red Hat | Engineering Manager & Software Engineer**
+
+### Focused on
 
 - **Leadership**: Lead a team of 5 engineers delivering part of SaaS product
 - **Technical Delivery**: Community-aligned projects for leaner product and simplified delivery
@@ -25,14 +31,17 @@ Passionate about building open, transparent engineering cultures that empower te
 
 ### Key Projects
 
-**OS Image Deployment Tool** *(console.redhat.com)*
+**OS Deployment Tool** *(console.redhat.com)*
 Lead team of five to built and delivere an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/).
 
 **Code to module extraction** *(Foreman)*  
 [Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple.
 
-## Ministry of Justice CZ
-**Software Engineer** *2016 – 2019*
+## Previously
+`2016-2019`
+**Ministry of Justice CZ | Software Engineer**
+
+### Focused on
 
 - **Open Source Advocacy**: Led adoption of open source technologies within government infrastructure
 - **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices
@@ -47,11 +56,9 @@ Lead team of five to built and delivere an [Open Source service](https://github.
 
 ## Education
 
+`2012-2015`
 **Czech Technical University in Prague**  
-Bachelor of Computer Science | 2017
-
-**Bussiness writing**
-The Economist course | 2025
+Bachelor of Computer Science
 
 <!-- ### Footer
 
