@@ -12,7 +12,7 @@ title: Ondřej Ezr's CV
 ![Photo of me](/assets/images/ondrej-photo.jpg)
 
 <p id="summary">
-Technical contributor and team enabler who helps build high-performing engineering teams through clear vision and open decision-making. 5+ years scaling infrastructure platforms at Red Hat, with deep expertise in open source development and community collaboration. I believe the best technical solutions emerge when engineers have autonomy, transparency, and shared purpose.
+Technical leader who helps build high-performing engineering teams through clear vision and open decision-making. 5+ years product developement at Red Hat, with expertise in community driven open source development. I believe autonomy, transparency, and shared purpose drives high-performing teams.
 </p>
 
 ## Currently
@@ -32,10 +32,10 @@ Technical contributor and team enabler who helps build high-performing engineeri
 ### Key Projects
 
 **OS Deployment Tool** *(console.redhat.com)*
-I've led team of five to built and deliver an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). We've delivered it under a year, in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695). We've maitained it for a year and subsequentely decided to deprecate and remove when it didn't prove successful.
+I've led team of five to built and deliver an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). We've delivered it under a year, in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695). We've maitained it for a year and subsequently deprecated it, when it failed gaining traction.
 
 **Code to module extraction** *(Foreman)*  
-[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple. This allowed to remove dependency for customers to simplify the deployment process while allowing community the choice of continue using it.
+[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple. It simplified the Product while allowing community the choice.
 
 ## Previously
 `2016-2019`
