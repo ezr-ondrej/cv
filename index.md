@@ -12,41 +12,41 @@ title: Ondřej Ezr's CV
 ![Photo of me](/assets/images/ondrej-photo.jpg)
 
 <p id="summary">
-Passionate about building accessible solutions in open cultures based on transparency that empower teams and create sustainable growth.
+Technical contributor and team enabler who helps build high-performing engineering teams through clear vision and open decision-making. 5+ years scaling infrastructure platforms at Red Hat, with deep expertise in open source development and community collaboration. I believe the best technical solutions emerge when engineers have autonomy, transparency, and shared purpose.
 </p>
 
 ## Currently
 
 `Since 2019`
-**Red Hat | Engineering Manager & Software Engineer**
+**Red Hat |** Engineering Manager & Software Engineer
 
 ### Focused on
 
-- **Leadership**: Lead a team of 5 engineers delivering part of SaaS product
-- **Technical Delivery**: Community-aligned projects for leaner product and simplified delivery
-- **Organizational Impact**: Guided team through reorganizations to stream-line decision making and simplify delivery
-- **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership
-- **Culture**: Champion open decision-making and transparency across organizational levels
+- **Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs.
+- **Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
+- **Organizational Impact**: Guided team through reorganizations to merge backend, frontend and QE to single team. Stream-line decision making and simplify delivery process.
+- **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
+- **Culture**: Champion open decision-making and transparency across organizational levels. Bridged many teams to talk together more and collaborate more closely.
 
 
 ### Key Projects
 
 **OS Deployment Tool** *(console.redhat.com)*
-Lead team of five to built and delivere an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/).
+Lead team of five to built and delivere an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). Delivered under a year in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695).
 
 **Code to module extraction** *(Foreman)*  
 [Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple.
 
 ## Previously
 `2016-2019`
-**Ministry of Justice CZ | Software Engineer**
+**Ministry of Justice CZ |** Software Engineer
 
 ### Focused on
 
-- **Open Source Advocacy**: Led adoption of open source technologies within government infrastructure
-- **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices
+- **Open Source Advocacy**: Led adoption of open source licenses within government software to improve collaboration between deparments and reduce vendor dependency.
+- **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
 - **Modernization**: Transformed software delivery in traditionally rigid government environment
-- **Process Innovation**: Established foundation for developer autonomy and infrastructure transparency
+- **Process Innovation**: Started an in-house development department. Established foundation for developer autonomy and infrastructure transparency.
 
 
 ### Key Project
