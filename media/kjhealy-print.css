@@ -176,10 +176,18 @@ a:hover {
 #content > p:first-of-type {
 	position: absolute;
 	margin-top: 1em;
+	left: auto;
+	text-align: right;
+	width: 20%;
+	top: 0;
 }
 
 #content > p:first-of-type img {
 	width: 100px;
+}
+
+p#summary {
+	margin-top: 2em;
 }
 
 em {
