@@ -9,7 +9,9 @@ title: Ondřej Ezr's CV
 | <a href="https://github.com/ezr-ondrej">github.com/ezr-ondrej</a>
 </div>
 
+<span id="photo">
 ![Photo of me](/assets/images/ondrej-photo.jpg)
+<span>
 
 <p id="summary">
 Passionate about building accessible solutions in open cultures based on transparency that empower teams and create sustainable growth.
