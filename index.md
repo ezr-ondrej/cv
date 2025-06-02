@@ -37,11 +37,11 @@ Stream-line decision making and simplify delivery process.
 
 ### Key Projects
 
-**OS Deployment Tool** *(console.redhat.com)*
-I've led team of five to built and deliver an [Open Source service](https://github.com/RHEnVision/) in a [SaaS product](https://console.redhat.com/). We've delivered it under a year, in time to present on a [main stage](https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695). We've maitained it for a year and subsequently deprecated it, when it failed gaining traction.
+**Full-Stack Product Delivery** *(console.redhat.com)*
+Delivered complete product lifecycle: led 5-person team to build, launch, and maintain [open source](https://github.com/RHEnVision/) OS deployment service reaching production and [Red Hat Summit]((https://youtu.be/0LCmCkwRcOE?si=SfuSF-xitcVsNcCt&t=1695)) presentation within 12 months. Established success metrics, monitored adoption, and made strategic decision to deprecate when data showed limited traction.
 
-**Code to module extraction** *(Foreman)*  
-[Collaborated with upstream communities](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to align enterprise goal of removing code with open project roadmap by extracting code to a module while keeping both upstream and downstream delivery simple. It simplified the Product while allowing community the choice.
+**Architecture Refactoring** *(Foreman)*  
+[Led upstream collaboration](https://community.theforeman.org/t/puppet-plugin-release-and-its-future/22335) to extract tightly-coupled Puppet code into standalone module, reducing Foreman core complexity while maintaining backward compatibility. Aligned Red Hat's product simplification goals with community needs, enabling optional adoption and reducing maintenance burden for both upstream and enterprise distributions.
 
 ## Previously
 `2016-2019`
@@ -49,7 +49,7 @@ I've led team of five to built and deliver an [Open Source service](https://gith
 
 ### Focused on
 
-**Open Source Advocacy**: Led adoption of open source licenses within government software to improve collaboration between deparments and reduce vendor dependency.
+**Open Source Advocacy**: I've championed adoption of open source licenses within government software to improve collaboration between deparments and to reduce vendor dependency.
 
 **DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
 
@@ -61,16 +61,13 @@ I've led team of five to built and deliver an [Open Source service](https://gith
 ### Key Project
 
 **DevOps Transformation**
-[Established CI/CD pipelines](https://archiv.isss.cz/archiv/2020/do/watch?id=52) and quality assurance frameworks, modernizing government software delivery practices while pushing for [Open Sourcing some projects](https://github.com/ministryofjusticecz).
+[Established CI/CD pipelines](https://archiv.isss.cz/archiv/2020/do/watch?id=52) and quality assurance frameworks, modernizing government software delivery practices while pushing for [Open Sourcing projects](https://github.com/ministryofjusticecz).
 
 ## Education
 
 `2012-2015`
 **Czech Technical University in Prague**  
 Bachelor of Computer Science
-
-`2015-now`
-**Courses and learning on the job**
 
 <!-- ### Footer
 
