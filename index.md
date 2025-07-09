@@ -29,7 +29,7 @@ Later guided the decision to take the service down again, when it didn't prove s
 **Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
 
 **Organizational Impact**: Guided team through reorganizations to put backend, frontend and quality engineering to single team.
-Stream-line decision making and simplify delivery process.
+It helped stream-line decision making and simplify delivery process.
 
 **Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
 
@@ -52,11 +52,7 @@ Delivered complete product lifecycle: led 5-person team to build, launch, and ma
 
 **Open Source Advocacy**: I've championed adoption of open source licenses within government software to improve collaboration between deparments and to reduce vendor dependency.
 
-**DevOps Implementation**: Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
-
-**Modernization**: Transformed software delivery in traditionally rigid government environment
-
-**Process Innovation**: Started an in-house development department. Established foundation for developer autonomy and infrastructure transparency.
+**DevOps modernization**: Transformed software delivery in traditionally rigid environment. Introduced modern CI/CD processes and quality assurance practices to reduce maintenance cost and improve oversight
 
 
 ### Key Project
@@ -79,8 +75,10 @@ Bachelor of Computer Science
 
 **Extreme ownership** by *Jocko Willink, Leif Babin* - The book has shifted my mindset to a leader mindset
 
-`Mind shifting hobbies`
+`Hobbies`
 **Skydiving** has thought me to overcome fear and go after things that excites me.
+
+**Hiking** has tought me it is nice to get to a goal, but the path is more important.
 
 <!-- ### Footer
 
