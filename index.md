@@ -13,7 +13,7 @@ title: Ondřej Ezr's CV
 ![Photo of me](/assets/images/ondrej-photo.jpg)
 
 <p id="summary">
-Technical leader who helps build high-performing engineering teams through clear vision and open decision-making. 5+ years product developement at Red Hat, with expertise in community driven open source development. I believe autonomy, transparency, and shared purpose drives high-performing teams.
+Technical leader who helps build high-performing engineering teams through clear vision and open decision-making. 5+ years product development at Red Hat, with expertise in community driven open source development. I believe autonomy, transparency, and shared purpose drives high-performing teams.
 </p>
 
 ## Currently
@@ -69,6 +69,18 @@ Delivered complete product lifecycle: led 5-person team to build, launch, and ma
 `2012-2015`
 **Czech Technical University in Prague**  
 Bachelor of Computer Science
+
+## Personality
+
+`Important books`
+**Start with Why** by *Simon Sinek* - Changing my view at life and role of a leader.
+
+**Radical Candor** by *Kim Malone Scott* - Amazing leadership how-to book
+
+**Extreme ownership** by *Jocko Willink, Leif Babin* - The book has shifted my mindset to a leader mindset
+
+`Mind shifting hobbies`
+**Skydiving** has thought me to overcome fear and go after things that excites me.
 
 <!-- ### Footer
 
