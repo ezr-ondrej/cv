@@ -28,12 +28,9 @@ Later guided the decision to take the service down again, when it didn't prove s
 
 **Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
 
-**Organizational Impact**: Guided team through reorganizations to put backend, frontend and quality engineering to single team.
-It helped stream-line decision making and simplify delivery process.
+**Organizational Impact**: Guided team through few reorganizations. Ensured the culture of open decision-making and transparency across organizational levels. I've bridged many teams to talk together and collaborate effectively.
 
-**Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. All the engineers I've led are regarded as high performers and great to collaborate with.
-
-**Culture**: Champion open decision-making and transparency across organizational levels. Bridged many teams to talk together more and collaborate more closely.
+**Mentorship**: Mentor engineers in system design, open source contribution, and technical leadership. 
 
 
 ### Key Projects
@@ -76,9 +73,11 @@ Bachelor of Computer Science
 **Extreme ownership** by *Jocko Willink, Leif Babin* - The book has shifted my mindset to a leader mindset
 
 `Hobbies`
-**Skydiving** has thought me to overcome fear and go after things that excites me.
+**Skydiving** has thought me to overcome fear and go after things that excite me.
 
 **Hiking** has tought me it is nice to get to a goal, but the path is more important.
+
+**Climbing** has tought me the enjoyment of long-term perseverence
 
 <!-- ### Footer
 
