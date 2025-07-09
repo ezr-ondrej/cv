@@ -62,7 +62,7 @@ Bachelor of Computer Science
 
 ## Personality
 
-`Important books`
+`Key books`
 **Start with Why** by *Simon Sinek* - Changing my view at life and role of a leader.
 
 **Radical Candor** by *Kim Malone Scott* - Amazing leadership how-to book
