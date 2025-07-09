@@ -23,10 +23,7 @@ Technical leader who helps build high-performing engineering teams through clear
 
 ### Focused on
 
-**Product delivery**: Built a console.redhat.com OS deployment service simplifying deployments of Cloud VMs.
-Later guided the decision to take the service down again, when it didn't prove successful.
-
-**Technical leadership**: Guide team of 5 engineers to shift from delivering self hosted product to deliver full-stack development for SaaS with 99.9% uptime.
+**Technical leadership and delivery**: Guide team of 5 engineers used to on-premise product to deliver SaaS microservice. The team owned the app fully with its operations, delivered it on time with 99.9% uptime. The team measured the success and later decided to decomission the service.
 
 **Organizational Impact**: Guided team through few reorganizations. Ensured the culture of open decision-making and transparency across organizational levels. I've bridged many teams to talk together and collaborate effectively.
 
